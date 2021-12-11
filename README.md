@@ -7,8 +7,6 @@ style=flat-square&logo=Windows&logoColor=white"/></a> <img src="https://img.shie
 style=flat-square&logo=Google Chrome&logoColor=white"/></a> <img src="https://img.shields.io/badge/Firefox Browser-FF7139?
 style=flat-square&logo=Firefox Browser&logoColor=white"/></a>
 
----
-
 ## Technology, Framework
 
 <div>
@@ -18,8 +16,6 @@ style=flat-square&logo=Firefox Browser&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=PWA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>
 </div>
-
----
 
 ## Languages
 
@@ -37,8 +33,6 @@ style=flat-square&logo=Firefox Browser&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 </div>
 
----
-
 ## IDE or TextEditor
 
 <div>
@@ -50,7 +44,5 @@ style=flat-square&logo=Firefox Browser&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div>
-
----
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnsgud0258)](https://solved.ac/tnsgud0258)
