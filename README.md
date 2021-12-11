@@ -1,6 +1,7 @@
-#A high school student who aims to be a FRONT-END developer.
+# A high school student who aims to be a FRONT-END developer.
 
-##Field
+## Field
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a> <img src="https://img.shields.io/badge/Windows-0078D6?
 style=flat-square&logo=Windows&logoColor=white"/></a> <img src="https://img.shields.io/badge/Google Chrome-4285F4?
 style=flat-square&logo=Google Chrome&logoColor=white"/></a> <img src="https://img.shields.io/badge/Firefox Browser-FF7139?
@@ -8,7 +9,7 @@ style=flat-square&logo=Firefox Browser&logoColor=white"/></a>
 
 ---
 
-##Technology, Framework
+## Technology, Framework
 
 <div>
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
@@ -20,7 +21,7 @@ style=flat-square&logo=Firefox Browser&logoColor=white"/></a>
 
 ---
 
-##Languages
+## Languages
 
 <div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -38,7 +39,7 @@ style=flat-square&logo=Firefox Browser&logoColor=white"/></a>
 
 ---
 
-##IDE or TextEditor
+## IDE or TextEditor
 
 <div>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
