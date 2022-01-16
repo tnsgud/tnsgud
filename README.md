@@ -6,14 +6,14 @@
 </p>
 
 <div align="center">
-    <h2  align="center"> 🎨  Frameworks which I use 🎨 </h2>
+    <h1  align="center"> 🎨  Frameworks which I use 🎨 </h1>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
 </div>
 
 ---
 
-<h2 align="center"> 🔨 Languages which I use 🔨 </h2>
+<h1 align="center"> 🔨 Languages which I use 🔨 </h1>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
