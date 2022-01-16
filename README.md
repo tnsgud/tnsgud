@@ -9,17 +9,9 @@
         margin-left : 5px;
         margin-right: 5px;
     }
-    
-    #headdd {
-        margin-bottom:0px
-    }
 </style>
 
-# Front-end developer
-
-<img id="headdd" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=400&section=&text=Front-end%20Soon%20Hyeong&fontSize=90&animation=scaleIn">
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=400&section=&text=Front-end%20developerPark%20Soon%20Hyeong&fontSize=90&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=400&section=&text=Park%20Soon%20Hyeong&fontSize=90&desc=Front-end%20developer.&animation=scaleIn)
 
 ## Frameworks which I use <br> 내가 사용하는 프레임워크들
 
