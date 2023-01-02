@@ -24,10 +24,4 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 </div>
 
-<div align="center">
-    <a href="https://solved.ac/tnsgud0258">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tnsgud0258" />
-    </a>
-</div>
-
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=100:009FFF,0:ec2F4B&height=200&section=footer&animation=scaleIn)
