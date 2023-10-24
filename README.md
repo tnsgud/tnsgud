@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:009FFF,100:ec2F4B&height=400&section=&text=Park%20Soon%20Hyeong&fontColor=ffffff&fontSize=90&desc=Front-end%20developer.&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:009FFF,100:ec2F4B&height=400&section=&text=Park%20Sun%20Hyeong&fontColor=ffffff&fontSize=90&desc=Full%20Stack%20Developer.&animation=scaleIn)
 
 <p align="center" style="font-size:20px;">
-    I'm a high school developer. <br>
-    I'm preparing for front-end development.
+    I'm full stack developer. <br>
 </p>
 
 <div align="center">
